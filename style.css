@@ -1,0 +1,254 @@
+body {
+  margin: 0px;
+}
+.banner {
+  background-image: url(images/donation6.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  padding: 14%;
+}
+
+h1{
+  font-size: 50px;
+}
+.donate{
+  text-align: center;
+  color: white;
+
+}
+.donate h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 70px;
+  margin-top: 0PX;
+  margin-bottom: 0px;
+}
+.donate p {
+  margin-top: 15px;
+  margin-bottom: 50px;
+  font-size: 30px;
+}
+#button {
+  text-decoration: none;
+  background-color: #FF5959;
+  color: white;
+  padding: 15px 20px;
+  border-radius: 5px;
+  font-size: 30px;
+}
+.easy {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 50px;
+  margin-top: 150px;
+  margin-bottom: 0px;
+}
+#feel-good{
+  margin-top: 30px;
+  margin-bottom: 60px;
+  font-size: 25px;
+  text-align: center;
+}
+.Donate-Today {
+  width: 60%;
+  margin-left: 20%;
+  text-align: center;
+}
+
+.how-much {
+  display: flex;
+}
+
+#poriman-100{
+  color: #707070;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 15%;
+  text-align: center;
+  font-size: 40px;
+  margin-left: 3.5%;
+  margin-right: 2%;
+  padding: 0% 2%;
+  background-color: #FAFAFA;
+  border-radius: 5%;
+}
+
+#poriman-200 {
+  color: #707070;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 15%;
+  text-align: center;
+  font-size: 40px;
+  margin-right: 2%;
+  padding: 0% 2%;
+  background-color: #FFEEEE;
+  border: 3px solid #FF5959;
+  border-radius: 5%;
+}
+
+#poriman-500 {
+  color: #707070;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 15%;
+  text-align: center;
+  font-size: 40px;
+  margin-right: 2%;
+  padding: 0% 2%;
+  background-color: #FAFAFA;
+  border-radius: 5%;
+}
+
+#poriman-1000 {
+  color: #707070;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 15%;
+  text-align: center;
+  font-size: 40px;
+  margin-right: 2%;
+  padding: 0% 2%;
+  background-color: #FAFAFA;
+  border-radius: 5%;
+}
+
+#poriman-5000 {
+  color: #707070;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 15%;
+  text-align: center;
+  font-size: 40px;
+  padding: 0% 2%;
+  background-color: #FAFAFA;
+  border-radius: 5%;
+  margin-right: 3.5%;
+
+
+}
+
+#monia {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+
+}
+
+#maisha {
+  text-align: center;
+  border: none;
+  font-size: 20px;
+  color: #B3B3B3;
+  width: 22%;
+
+}
+
+.second-heading-size{
+  font-size: 40px;
+}
+.second-heading {
+text-align: center;
+}
+.color-part-two{
+  color: #01020f;
+}
+.three-goals{
+  display: flex;
+}
+
+#food{
+  width: 80%;
+   margin-left: 150px;
+   padding: 30px;
+   margin-right: 30px;
+   border-radius: 25px;
+   background-color:#eff7f6 ;
+}
+
+#education{
+  width: 80%;
+   padding: 30px;
+   margin-right: 30px;
+   border-radius: 25px;
+   background-color: #fff0f2;
+}
+
+#shelter{
+  width: 80%;
+  margin-right: 150px;
+  padding: 30px;
+
+   border-radius: 25px;
+   background-color: #fff4d7;
+}
+#service-provide{
+  width: 80%;
+  margin-left: 150px;
+   padding: 30px;
+   margin-right: 30px;
+   border-radius: 25px;
+   background-color:#e4e4fd;
+   
+}
+
+
+.service {
+  text-align: center;
+  font-size: 50px;
+  color:#771037;
+}
+
+#service-provide{
+  margin-bottom: 100px;
+}
+.input{
+  margin-bottom: 50px;
+}
+.email{
+  background-color: blanchedalmond;
+  height: 150px;
+  width: 1000px;
+  display: flex; 
+  align-items: center;
+  padding-left: 920px; 
+}
+.update {
+  background: #FFF4D6;
+  max-width: 75%;
+  padding: 4rem;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.update input {
+  font-size: 1rem;
+  color: #AA9F9F;
+  background: #D9D9D9;
+  padding: 0.5rem 1rem;
+  width: 50%;
+  border-radius: 0.3rem 0 0 0.3rem;
+}
+
+.update button {
+  font-weight: 500;
+  font-size: 0.9rem;
+  border-radius: 0 0.3rem 0.3rem 0;
+  background-color: #eb3c3c;
+}
+
+    .foot {
+        text-align: center;
+        color: white;
+        background-color: #1b1b1b;
+        height: 100px;
+        padding-top: 20px;
+    }
+    .foot-col{
+        color:#ce0e0e ;
+        
+    }
+    .foot h1{
+        font-size: 30px;
+        font-family: 'Lobster', cursive;
+    }
+    
+    .foot p{
+        font-family: 'Nunito', sans-serif;
+    }
